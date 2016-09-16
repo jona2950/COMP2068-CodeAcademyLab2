@@ -1,0 +1,9 @@
+Lab 2 - Code Academy's JavaScript Rock-Paper-Scissors
+
+This lab is a JavaScript refresher.  To complete the lab:
+
+- Visit https://www.codeacademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1?curriculum_id=506324b3a7dffd00020bf661
+- Follow the instructions and complete the tutorial online in class
+- When your game is working, copy your completed code into a file called lab2.js
+- Create a GitHub repo called comp2106-lab2 and push your lab2.js file to this repo
+- Submit your comp2106-lab2 repo link on Blackboard
